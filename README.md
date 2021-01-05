@@ -1,2 +1,1 @@
-# Hackathons
-Projects done on various hackathons
+# Machinehack_ThegreatIndianHiringHackathon
